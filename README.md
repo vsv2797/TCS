@@ -2,7 +2,7 @@
 
 This repository contains a Python-based workflow for processing Interferometric Synthetic Aperture Radar (InSAR) time series data. The primary goal is to identify, classify, and analyze different types of coherent scatterers, including stable first-order points (like Permanent Scatterers, PS) and less stable second-order points (like Temporary Coherent Scatterers, TCS).
 
-The workflow uses the Amplitude Dispersion Index (ADI) for initial classification and provides a suite of tools for generating interferograms, filtering phase time series, and interactively visualizing the results. InSAR based TS analysis
+The workflow uses the Amplitude Dispersion Index (ADI) for initial classification and provides a suite of tools for generating interferograms, filtering phase time series, and interactively visualizing the results. InSAR based TS analysis PS and TCS
 
 ## 🌟 Core Features
 
